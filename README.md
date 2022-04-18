@@ -2,7 +2,7 @@
 
 2021년 대학원 자료분석특론 수업의 Final Project로 진행한 내용으로, 수업 내용에서 배운 모델만을 가지고 분석을 진행하였다. 2개의 데이터를 분석하였으며, 구조화된 데이터 1개와 이미지 데이터 1개이다.
 <br>
-[발표 자료](https://github.com/jihye0115/2021-Advanced-Data-Analysis-Final-Project/Project-Presentation.pdf)는 두 주제를 합산하여 10분 이내에 발표한 자료로 매우 축약되어 있으며, 각 변수에 대한 EDA부터 모델링 과정 전체를 확인하려면 보고서를 참고하는 것이 좋다.
+[발표 자료](https://github.com/jihye0115/2021-Advanced-Data-Analysis-Final-Project/blob/main/Project%20Presentation.pdf)는 두 주제를 합산하여 10분 이내에 발표한 자료로 매우 축약되어 있으며, 각 변수에 대한 EDA부터 모델링 과정 전체를 확인하려면 보고서를 참고하는 것이 좋다.
 <br/> <br>
 
 ## 첫 번째 데이터 - Levels Fyi Salary data
